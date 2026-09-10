@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4844685,
       "digest": "sha256:7cad2ac87390f49786e666cfcd48011ed7d68ec58569bd951395d9a802096ff5",
-      "download_count": 1224,
+      "download_count": 1225,
       "created_at": "2026-02-22T18:50:25Z",
       "updated_at": "2026-02-22T18:50:26Z",
       "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-unknown-linux-gnu.tgz"
