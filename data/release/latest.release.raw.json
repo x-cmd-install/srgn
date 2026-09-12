@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4699151,
       "digest": "sha256:d89b50c446a672d8f8c0ee351dc6562e975c420e47d4d5cd8ca5993b53644d69",
-      "download_count": 974,
+      "download_count": 976,
       "created_at": "2026-02-22T18:50:27Z",
       "updated_at": "2026-02-22T18:50:28Z",
       "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-aarch64-apple-darwin.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4707747,
       "digest": "sha256:c4be1e52cfb29ef2284bc57a0dbf9a52da2e36767eabeb5d046150be7e1f5c83",
-      "download_count": 936,
+      "download_count": 938,
       "created_at": "2026-02-22T18:50:56Z",
       "updated_at": "2026-02-22T18:50:56Z",
       "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-apple-darwin.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4395516,
       "digest": "sha256:b230d2e68392622d9c910843c9c24d363947d570d6ce32f56214a86885964d4d",
-      "download_count": 1092,
+      "download_count": 1094,
       "created_at": "2026-02-22T18:51:38Z",
       "updated_at": "2026-02-22T18:51:39Z",
       "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-pc-windows-msvc.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4844685,
       "digest": "sha256:7cad2ac87390f49786e666cfcd48011ed7d68ec58569bd951395d9a802096ff5",
-      "download_count": 1240,
+      "download_count": 1243,
       "created_at": "2026-02-22T18:50:25Z",
       "updated_at": "2026-02-22T18:50:26Z",
       "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-unknown-linux-gnu.tgz"
