@@ -14,11 +14,11 @@ x install srgn
 
 ## Code insight
 
-Total: **11,083** lines of code across **93** files in the top 5 languages.
+Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,702 | 698 | 1,163 | 47 |
+| Rust | 9,690 | 698 | 1,163 | 47 |
 | Go | 261 | 68 | 62 | 4 |
 | Python | 260 | 45 | 110 | 40 |
 | TypeScript | 235 | 55 | 64 | 1 |
@@ -33,27 +33,27 @@ Total: **11,083** lines of code across **93** files in the top 5 languages.
 ## Release
 
 - **Latest**: `srgn-v0.14.2` (2026-02-22)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-23
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 915 · **Forks**: 11 · **Open issues**: 50 · **Contributors**: 6
+- **Stars**: 915 · **Forks**: 12 · **Open issues**: 50 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 227 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 802
+- **Releases**: 32 · **Merged PRs**: 227 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 805
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-24 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-25 | 0 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-26 | 0 | 20 | 0 | 1 | 0 | 26 |
-| 360d | 2025-10-28 | 2 | 28 | 1 | 2 | 0 | 38 |
-| last720d | 2024-11-02 | 7 | 118 | 1 | 6 | 1 | 160 |
+| 30d | 2026-09-24 | 0 | 2 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-25 | 0 | 3 | 1 | 0 | 0 | 6 |
+| 90d | 2026-07-26 | 0 | 6 | 1 | 0 | 0 | 9 |
+| last180d | 2026-04-27 | 0 | 20 | 1 | 1 | 0 | 29 |
+| 360d | 2025-10-29 | 2 | 28 | 2 | 2 | 0 | 41 |
+| last720d | 2024-11-03 | 7 | 118 | 2 | 6 | 1 | 163 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:48:24Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:41:19Z._
