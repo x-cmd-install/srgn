@@ -42,18 +42,18 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 227 · **Open PRs**: 2 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 805
+- **Releases**: 32 · **Merged PRs**: 227 · **Open PRs**: 4 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 805
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-02 | 0 | 2 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-03 | 0 | 3 | 1 | 0 | 0 | 6 |
-| last180d | 2026-05-05 | 0 | 14 | 1 | 1 | 0 | 19 |
-| 360d | 2025-11-06 | 2 | 23 | 2 | 2 | 0 | 34 |
-| last720d | 2024-11-11 | 6 | 114 | 2 | 4 | 1 | 146 |
+| 30d | 2026-10-03 | 0 | 0 | 3 | 0 | 0 | 3 |
+| last60d | 2026-09-03 | 0 | 2 | 3 | 0 | 0 | 5 |
+| 90d | 2026-08-04 | 0 | 3 | 3 | 0 | 0 | 6 |
+| last180d | 2026-05-06 | 0 | 14 | 3 | 1 | 0 | 19 |
+| 360d | 2025-11-07 | 2 | 23 | 4 | 2 | 0 | 34 |
+| last720d | 2024-11-12 | 6 | 114 | 4 | 4 | 1 | 146 |
 
 ## Release assets
 
@@ -66,12 +66,12 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/srgn). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.14.2` | ✅ latest |
-| Homebrew | `0.14.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.14.2` | ✅ latest |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:08:28Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:30:01Z._
