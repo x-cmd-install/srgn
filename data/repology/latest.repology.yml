@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: srgn
+  visiblename: srgn
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Code surgeon for precise text and code transplantation
 - repo: arch
   subrepo: extra
   srcname: srgn
@@ -16,13 +23,6 @@
   origversion: null
   status: newest
   summary: Code surgeon for precise text and code transplantation
-- repo: homebrew
-  srcname: srgn
-  visiblename: srgn
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Code surgeon for precise text and code transplantation
 - repo: macports
   srcname: devel/srgn
   binname: srgn
@@ -37,28 +37,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: srgn
-  binname: srgn
-  visiblename: srgn
-  version: 0.14.2
-  origversion: 0.14.2-1
-  status: newest
-  summary: A code surgeon for precise text and code transplantation
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: srgn
-  binname: srgn
-  visiblename: srgn
-  version: 0.14.2
-  origversion: 0.14.2-1
-  status: newest
-  summary: A code surgeon for precise text and code transplantation
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: srgn
