@@ -38,7 +38,7 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 915 · **Forks**: 12 · **Open issues**: 50 · **Contributors**: 6
+- **Stars**: 914 · **Forks**: 12 · **Open issues**: 50 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-04 | 0 | 2 | 3 | 0 | 0 | 5 |
-| 90d | 2026-08-05 | 0 | 3 | 3 | 0 | 0 | 6 |
-| last180d | 2026-05-07 | 0 | 14 | 3 | 1 | 0 | 19 |
-| 360d | 2025-11-08 | 2 | 23 | 4 | 2 | 0 | 34 |
-| last720d | 2024-11-13 | 6 | 114 | 4 | 4 | 1 | 146 |
+| 30d | 2026-10-05 | 0 | 0 | 3 | 0 | 0 | 3 |
+| last60d | 2026-09-05 | 0 | 2 | 3 | 0 | 0 | 5 |
+| 90d | 2026-08-06 | 0 | 3 | 3 | 0 | 0 | 6 |
+| last180d | 2026-05-08 | 0 | 14 | 3 | 1 | 0 | 19 |
+| 360d | 2025-11-09 | 2 | 23 | 4 | 2 | 0 | 34 |
+| last720d | 2024-11-14 | 6 | 114 | 4 | 4 | 1 | 146 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:17:06Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:36:21Z._
