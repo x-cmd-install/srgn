@@ -48,12 +48,12 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 0 | 2 | 3 | 0 | 0 | 5 |
-| 90d | 2026-08-08 | 0 | 3 | 3 | 0 | 0 | 6 |
-| last180d | 2026-05-10 | 0 | 14 | 3 | 1 | 0 | 19 |
-| 360d | 2025-11-11 | 2 | 23 | 4 | 2 | 0 | 34 |
-| last720d | 2024-11-16 | 6 | 114 | 4 | 4 | 1 | 146 |
+| 30d | 2026-10-08 | 0 | 0 | 3 | 0 | 0 | 3 |
+| last60d | 2026-09-08 | 0 | 2 | 3 | 0 | 0 | 5 |
+| 90d | 2026-08-09 | 0 | 3 | 3 | 0 | 0 | 6 |
+| last180d | 2026-05-11 | 0 | 14 | 3 | 1 | 0 | 19 |
+| 360d | 2025-11-12 | 2 | 23 | 4 | 2 | 0 | 34 |
+| last720d | 2024-11-17 | 6 | 114 | 4 | 4 | 1 | 146 |
 
 ## Release assets
 
@@ -66,12 +66,12 @@ Total: **11,059** lines of code across **93** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/srgn). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.14.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.14.2` | ✅ latest |
 | Nix unstable | `0.14.2` | ✅ latest |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:56:25Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:02:01Z._
