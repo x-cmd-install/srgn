@@ -14,11 +14,11 @@ x install srgn
 
 ## 代码洞察
 
-合计: **11,059** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
+合计: **11,066** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 9,690 | 698 | 1,163 | 47 |
+| Rust | 9,697 | 699 | 1,163 | 47 |
 | Go | 261 | 68 | 62 | 4 |
 | Python | 260 | 45 | 110 | 40 |
 | TypeScript | 235 | 55 | 64 | 1 |
@@ -32,47 +32,47 @@ x install srgn
 
 ## 发布
 
-- **最新版本**: `srgn-v0.14.2` (2026-02-22)
-- **最近提交**: 2026-10-23
+- **最新版本**: `srgn-v0.14.3` (2026-11-08)
+- **最近提交**: 2026-11-08
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 914 · **Fork**: 12 · **开放 issue**: 50 · **贡献者**: 6
+- **Star**: 915 · **Fork**: 12 · **开放 issue**: 50 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 227 · **开放 PR**: 4 · **已关闭 issue**: 47 · **开放 issue**: 3 · **提交数**: 805
+- **发布数**: 33 · **已合并 PR**: 231 · **开放 PR**: 1 · **已关闭 issue**: 47 · **开放 issue**: 3 · **提交数**: 809
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-09 | 0 | 2 | 3 | 0 | 0 | 5 |
-| 90d | 2026-08-10 | 0 | 3 | 3 | 0 | 0 | 6 |
-| last180d | 2026-05-12 | 0 | 14 | 3 | 1 | 0 | 19 |
-| 360d | 2025-11-13 | 2 | 23 | 4 | 2 | 0 | 34 |
-| last720d | 2024-11-18 | 6 | 114 | 4 | 4 | 1 | 146 |
+| 30d | 2026-10-11 | 1 | 3 | 1 | 0 | 0 | 7 |
+| last60d | 2026-09-11 | 1 | 5 | 1 | 0 | 0 | 9 |
+| 90d | 2026-08-12 | 1 | 6 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-14 | 1 | 17 | 1 | 1 | 0 | 23 |
+| 360d | 2025-11-15 | 3 | 27 | 1 | 2 | 0 | 38 |
+| last720d | 2024-11-20 | 7 | 118 | 1 | 4 | 1 | 150 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [srgn-aarch64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-aarch64-apple-darwin.tgz) | 4.5 MiB | `native/darwin/arm64` |
-| [srgn-x86_64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-apple-darwin.tgz) | 4.5 MiB | `native/darwin/x64` |
-| [srgn-x86_64-pc-windows-msvc.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-pc-windows-msvc.tgz) | 4.2 MiB | `native/win/x64` |
-| [srgn-x86_64-unknown-linux-gnu.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-unknown-linux-gnu.tgz) | 4.6 MiB | `native/linux/x64/glibc` |
+| [srgn-aarch64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-aarch64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/arm64` |
+| [srgn-x86_64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/x64` |
+| [srgn-x86_64-pc-windows-msvc.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-pc-windows-msvc.tgz) | 4.2 MiB | `native/win/x64` |
+| [srgn-x86_64-unknown-linux-gnu.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-unknown-linux-gnu.tgz) | 4.6 MiB | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/srgn) 上共有 **13** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/srgn) 上共有 **13** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.14.2` | ✅ latest |
-| Homebrew | `0.14.2` | ✅ latest |
-| Nix unstable | `0.14.2` | ✅ latest |
+| Arch | `0.14.2` | ⚠️ outdated |
+| Homebrew | `0.14.3` | ✅ latest |
+| Nix unstable | `0.14.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ srgn 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:10:05Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:38:07Z._
