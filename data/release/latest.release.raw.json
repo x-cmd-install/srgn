@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/alexpovel/srgn/releases/289176627",
-  "assets_url": "https://api.github.com/repos/alexpovel/srgn/releases/289176627/assets",
-  "upload_url": "https://uploads.github.com/repos/alexpovel/srgn/releases/289176627/assets{?name,label}",
-  "html_url": "https://github.com/alexpovel/srgn/releases/tag/srgn-v0.14.2",
-  "id": 289176627,
+  "url": "https://api.github.com/repos/alexpovel/srgn/releases/438391921",
+  "assets_url": "https://api.github.com/repos/alexpovel/srgn/releases/438391921/assets",
+  "upload_url": "https://uploads.github.com/repos/alexpovel/srgn/releases/438391921/assets{?name,label}",
+  "html_url": "https://github.com/alexpovel/srgn/releases/tag/srgn-v0.14.3",
+  "id": 438391921,
   "author": {
     "login": "alexpovel-ci-machine[bot]",
     "id": 147921419,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJjxzhM4RPHwz",
-  "tag_name": "srgn-v0.14.2",
-  "target_commitish": "ce48a7e6408f8cb48331840b3ea25941bfa41482",
-  "name": "srgn: v0.14.2",
+  "node_id": "RE_kwDOJjxzhM4aIVRx",
+  "tag_name": "srgn-v0.14.3",
+  "target_commitish": "91ce02e128aca928cc21c3f633b1826a06234505",
+  "name": "srgn: v0.14.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-02-22T18:45:05Z",
-  "updated_at": "2026-02-22T18:51:49Z",
-  "published_at": "2026-02-22T18:51:49Z",
+  "created_at": "2026-11-08T17:09:22Z",
+  "updated_at": "2026-11-08T17:15:42Z",
+  "published_at": "2026-11-08T17:15:42Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/360309377",
-      "id": 360309377,
-      "node_id": "RA_kwDOJjxzhM4VeeKB",
+      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/724625983",
+      "id": 724625983,
+      "node_id": "RA_kwDOJjxzhM4rMOo_",
       "name": "srgn-aarch64-apple-darwin.tgz",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4699151,
-      "digest": "sha256:d89b50c446a672d8f8c0ee351dc6562e975c420e47d4d5cd8ca5993b53644d69",
-      "download_count": 1257,
-      "created_at": "2026-02-22T18:50:27Z",
-      "updated_at": "2026-02-22T18:50:28Z",
-      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-aarch64-apple-darwin.tgz"
+      "size": 4635307,
+      "digest": "sha256:62f19698fe7aa41af4870c82c9c904df43266c7d4ad7483cc26070e7b0c004b6",
+      "download_count": 8,
+      "created_at": "2026-11-08T17:14:06Z",
+      "updated_at": "2026-11-08T17:14:07Z",
+      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-aarch64-apple-darwin.tgz"
     },
     {
-      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/360309523",
-      "id": 360309523,
-      "node_id": "RA_kwDOJjxzhM4VeeMT",
+      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/724625587",
+      "id": 724625587,
+      "node_id": "RA_kwDOJjxzhM4rMOiz",
       "name": "srgn-x86_64-apple-darwin.tgz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4707747,
-      "digest": "sha256:c4be1e52cfb29ef2284bc57a0dbf9a52da2e36767eabeb5d046150be7e1f5c83",
-      "download_count": 1225,
-      "created_at": "2026-02-22T18:50:56Z",
-      "updated_at": "2026-02-22T18:50:56Z",
-      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-apple-darwin.tgz"
+      "size": 4652084,
+      "digest": "sha256:933e51a1cea459edc4b2dd5f4d808e6e35d50115600dc8c202970f849fa861b2",
+      "download_count": 7,
+      "created_at": "2026-11-08T17:13:59Z",
+      "updated_at": "2026-11-08T17:14:00Z",
+      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-apple-darwin.tgz"
     },
     {
-      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/360309701",
-      "id": 360309701,
-      "node_id": "RA_kwDOJjxzhM4VeePF",
+      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/724629555",
+      "id": 724629555,
+      "node_id": "RA_kwDOJjxzhM4rMPgz",
       "name": "srgn-x86_64-pc-windows-msvc.tgz",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4395516,
-      "digest": "sha256:b230d2e68392622d9c910843c9c24d363947d570d6ce32f56214a86885964d4d",
-      "download_count": 1386,
-      "created_at": "2026-02-22T18:51:38Z",
-      "updated_at": "2026-02-22T18:51:39Z",
-      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-pc-windows-msvc.tgz"
+      "size": 4381469,
+      "digest": "sha256:f64f6f720fe9bb22f1cbc641d58fc01ac0270e266dcc711b09563d1347499d0b",
+      "download_count": 7,
+      "created_at": "2026-11-08T17:15:32Z",
+      "updated_at": "2026-11-08T17:15:32Z",
+      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-pc-windows-msvc.tgz"
     },
     {
-      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/360309371",
-      "id": 360309371,
-      "node_id": "RA_kwDOJjxzhM4VeeJ7",
+      "url": "https://api.github.com/repos/alexpovel/srgn/releases/assets/724624421",
+      "id": 724624421,
+      "node_id": "RA_kwDOJjxzhM4rMOQl",
       "name": "srgn-x86_64-unknown-linux-gnu.tgz",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4844685,
-      "digest": "sha256:7cad2ac87390f49786e666cfcd48011ed7d68ec58569bd951395d9a802096ff5",
-      "download_count": 1880,
-      "created_at": "2026-02-22T18:50:25Z",
-      "updated_at": "2026-02-22T18:50:26Z",
-      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.2/srgn-x86_64-unknown-linux-gnu.tgz"
+      "size": 4825035,
+      "digest": "sha256:184ec23826947f6dbe1df0bdd7d88c5b6a3b5997cf96444e5d279863484490b3",
+      "download_count": 13,
+      "created_at": "2026-11-08T17:13:32Z",
+      "updated_at": "2026-11-08T17:13:33Z",
+      "browser_download_url": "https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-unknown-linux-gnu.tgz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/alexpovel/srgn/tarball/srgn-v0.14.2",
-  "zipball_url": "https://api.github.com/repos/alexpovel/srgn/zipball/srgn-v0.14.2",
-  "body": "## [0.14.2](https://github.com/alexpovel/srgn/compare/srgn-v0.14.1...srgn-v0.14.2) (2026-02-22)\n\n\n### Bug Fixes\n\n* **hcl:** Custom queries use correct language ([e901ee3](https://github.com/alexpovel/srgn/commit/e901ee351d4e6ccf98df8336acd6899ae85338e9))"
+  "tarball_url": "https://api.github.com/repos/alexpovel/srgn/tarball/srgn-v0.14.3",
+  "zipball_url": "https://api.github.com/repos/alexpovel/srgn/zipball/srgn-v0.14.3",
+  "body": "## [0.14.3](https://github.com/alexpovel/srgn/compare/srgn-v0.14.2...srgn-v0.14.3) (2026-11-08)\n\n\n### Bug Fixes\n\n* **fmt:** Run formatting ([6d1c029](https://github.com/alexpovel/srgn/commit/6d1c029cdfec5fdb74e2f0421b2c1a25940580e9))\n* normalize leading zero capture references ([23177c3](https://github.com/alexpovel/srgn/commit/23177c3141e5d31f1d502d0bb622a8fd38b212db))"
 }
