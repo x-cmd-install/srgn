@@ -14,11 +14,11 @@ x install srgn
 
 ## Code insight
 
-Total: **11,066** lines of code across **93** files in the top 5 languages.
+Total: **11,216** lines of code across **94** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,697 | 699 | 1,163 | 47 |
+| Rust | 9,847 | 703 | 1,169 | 48 |
 | Go | 261 | 68 | 62 | 4 |
 | Python | 260 | 45 | 110 | 40 |
 | TypeScript | 235 | 55 | 64 | 1 |
@@ -32,8 +32,8 @@ Total: **11,066** lines of code across **93** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `srgn-v0.14.3` (2026-11-08)
-- **Last commit**: 2026-11-08
+- **Latest**: `srgn-v0.14.4` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,37 +42,37 @@ Total: **11,066** lines of code across **93** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 231 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 809
+- **Releases**: 34 · **Merged PRs**: 232 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 3 · **Commits**: 814
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 3 | 1 | 0 | 0 | 7 |
-| last60d | 2026-09-16 | 1 | 5 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-17 | 1 | 6 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-19 | 1 | 17 | 1 | 1 | 0 | 23 |
-| 360d | 2025-11-20 | 3 | 27 | 1 | 2 | 0 | 38 |
-| last720d | 2024-11-25 | 7 | 118 | 1 | 4 | 1 | 150 |
+| 30d | 2026-10-17 | 2 | 4 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-17 | 2 | 6 | 1 | 0 | 0 | 14 |
+| 90d | 2026-08-18 | 2 | 7 | 1 | 0 | 0 | 15 |
+| last180d | 2026-05-20 | 2 | 18 | 1 | 1 | 0 | 28 |
+| 360d | 2025-11-21 | 4 | 26 | 1 | 2 | 0 | 40 |
+| last720d | 2024-11-26 | 8 | 119 | 1 | 4 | 1 | 155 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [srgn-aarch64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-aarch64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/arm64` |
-| [srgn-x86_64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/x64` |
-| [srgn-x86_64-pc-windows-msvc.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-pc-windows-msvc.tgz) | 4.2 MiB | `native/win/x64` |
-| [srgn-x86_64-unknown-linux-gnu.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.3/srgn-x86_64-unknown-linux-gnu.tgz) | 4.6 MiB | `native/linux/x64/glibc` |
+| [srgn-aarch64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-aarch64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/arm64` |
+| [srgn-x86_64-apple-darwin.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-x86_64-apple-darwin.tgz) | 4.4 MiB | `native/darwin/x64` |
+| [srgn-x86_64-pc-windows-msvc.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-x86_64-pc-windows-msvc.tgz) | 4.2 MiB | `native/win/x64` |
+| [srgn-x86_64-unknown-linux-gnu.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-x86_64-unknown-linux-gnu.tgz) | 4.6 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.14.2` | ⚠️ outdated |
-| Homebrew | `0.14.3` | ✅ latest |
-| Nix unstable | `0.14.3` | ✅ latest |
+| Homebrew | `0.14.4` | ✅ latest |
+| Nix unstable | `0.14.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:57:45Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:27Z._
