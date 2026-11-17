@@ -48,12 +48,12 @@ Total: **11,216** lines of code across **94** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 4 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-17 | 2 | 6 | 1 | 0 | 0 | 14 |
-| 90d | 2026-08-18 | 2 | 7 | 1 | 0 | 0 | 15 |
-| last180d | 2026-05-20 | 2 | 18 | 1 | 1 | 0 | 28 |
-| 360d | 2025-11-21 | 4 | 26 | 1 | 2 | 0 | 40 |
-| last720d | 2024-11-26 | 8 | 119 | 1 | 4 | 1 | 155 |
+| 30d | 2026-10-18 | 2 | 4 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-18 | 2 | 6 | 1 | 0 | 0 | 14 |
+| 90d | 2026-08-19 | 2 | 7 | 1 | 0 | 0 | 15 |
+| last180d | 2026-05-21 | 2 | 18 | 1 | 1 | 0 | 28 |
+| 360d | 2025-11-22 | 3 | 26 | 1 | 2 | 0 | 40 |
+| last720d | 2024-11-27 | 8 | 119 | 1 | 4 | 1 | 155 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **11,216** lines of code across **94** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:27Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:34:40Z._
