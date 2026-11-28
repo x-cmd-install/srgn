@@ -48,12 +48,12 @@ Total: **11,216** lines of code across **94** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 3 | 1 | 0 | 0 | 8 |
-| last60d | 2026-09-28 | 2 | 5 | 1 | 0 | 0 | 13 |
-| 90d | 2026-08-29 | 2 | 6 | 1 | 0 | 0 | 14 |
-| last180d | 2026-05-31 | 2 | 17 | 1 | 1 | 0 | 27 |
-| 360d | 2025-12-02 | 3 | 25 | 1 | 2 | 0 | 39 |
-| last720d | 2024-12-07 | 8 | 113 | 1 | 4 | 1 | 152 |
+| 30d | 2026-10-29 | 2 | 3 | 1 | 0 | 0 | 8 |
+| last60d | 2026-09-29 | 2 | 5 | 1 | 0 | 0 | 13 |
+| 90d | 2026-08-30 | 2 | 6 | 1 | 0 | 0 | 14 |
+| last180d | 2026-06-01 | 2 | 17 | 1 | 1 | 0 | 27 |
+| 360d | 2025-12-03 | 3 | 25 | 1 | 2 | 0 | 39 |
+| last720d | 2024-12-08 | 8 | 113 | 1 | 4 | 1 | 152 |
 
 ## Release assets
 
@@ -64,6 +64,16 @@ Total: **11,216** lines of code across **94** files in the top 5 languages.
 | [srgn-x86_64-pc-windows-msvc.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-x86_64-pc-windows-msvc.tgz) | 4.2 MiB | `native/win/x64` |
 | [srgn-x86_64-unknown-linux-gnu.tgz](https://github.com/alexpovel/srgn/releases/download/srgn-v0.14.4/srgn-x86_64-unknown-linux-gnu.tgz) | 4.6 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/srgn). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.14.2` | ⚠️ outdated |
+| Homebrew | `0.14.4` | ✅ latest |
+| Nix unstable | `0.14.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `srgn` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +83,4 @@ Install metadata for srgn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:29:04Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:28:40Z._
